@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Post de prueba"
-date: 2014-10-05
-comments:true
+title:  "Prueba"
+date:   2014-10-05 14:06:10
+categories: post prueba
 ---
 
 Esto es una prueba, nada mas. :D
