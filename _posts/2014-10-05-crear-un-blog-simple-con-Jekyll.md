@@ -13,8 +13,8 @@ Luego configuran el acceso a github desde la terminal:
 {% highlight bash %}
 git config --global color.ui true
 git config --global user.name "nombre de usuario"
-git config --global user.email "tu dirección de correo"
-ssh-keygen -t rsa -C "tu dirección de correo"
+git config --global user.email "dirección de correo"
+ssh-keygen -t rsa -C "dirección de correo"
 {% endhighlight %}
 
 Deben pegar el contenido de la llave en [este enlace][clavessh], la llave se encuentra en `home/.ssh/id_rsa.pub` y para ver su contenido pueden ejecutar `cat ~/.ssh/id_rsa.pub`, cuando hayan realizado esto escriben en la terminal.
@@ -30,9 +30,17 @@ Con esto ya configurado clonan su repositorio con el siguiente comando:
 git clone https://github.com/mi_usuario/mi_usuario.github.io.git
 {% endhighlight %}
 Para instalar Jekyll deben instalar las siguientes dependencias, pueden buscar un tutorial que se adapte a la distribución que estén utilizando:
-- Ruby
-- RubyGems
-- NodeJS u otro runtime de JavaScript
+* Ruby
+* RubyGems
+* NodeJS u otro runtime de JavaScript
+
+Una vez instaladas las dependencias ejecutan los siguiente:
+{% endhighlight %}
+gem install jekyll
+gem install bundler
+rbenv rehash  # Si usas rbenv, rehash para poder ejecutar el comando bundle
+{% highlight bash %}
+
 
 
 [github]:	https://github.com
