@@ -5,7 +5,7 @@ date:   2014-10-05 17:58:10
 categories: tutoriales jekyll github
 ---
 
-En el primer post explicaré como montar un blog sencillo con Jekyll, primero necesitan crear una cuenta en [github][github], luego crean un [nrepositorio][nuevo repositorio] al cual deben llamar `mi_usuario.github.io` en el cual reemplazan `mi_usuario` por el nombre de usuario de github.
+En el primer post explicaré como montar un blog sencillo con Jekyll, primero necesitan crear una cuenta en [github] [github], luego crean un [nrepositorio] [nuevo repositorio] al cual deben llamar `mi_usuario.github.io` en el cual reemplazan `mi_usuario` por el nombre de usuario de github.
 
 Luego configuran el acceso a github desde la terminal:
 {% highlight bash %}
