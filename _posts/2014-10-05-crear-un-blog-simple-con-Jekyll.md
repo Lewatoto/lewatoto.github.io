@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Como crear un blog simple cpn Jekyll"
+title:  "Como crear un blog simple con Jekyll"
 date:   2014-10-05 17:58:10
 categories: tutoriales jekyll github
 ---
