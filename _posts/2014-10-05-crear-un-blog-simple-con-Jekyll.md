@@ -25,7 +25,15 @@ En la terminal deberían de ver un mesaje parecido al siguiente:
 {% highlight bash %}
 Hi Lewatoto! You've successfully authenticated, but GitHub does not provide shell access.
 {% endhighlight %}
-Con esto ya configurado
+Con esto ya configurado clonan su repositorio con el siguiente comando:
+{% highlight bash %}
+git clone https://github.com/mi_usuario/mi_usuario.github.io.git
+{% endhighlight %}
+Para instalar Jekyll deben instalar las siguientes dependencias, pueden buscar un tutorial que se adapte a la distribución que estén utilizando:
+- Ruby
+- RubyGems
+- NodeJS u otro runtime de JavaScript
+
 
 [github]:	https://github.com
 [nrepositorio]: https://github.com/new
