@@ -5,7 +5,9 @@ date:   2014-10-05 17:58:11
 categories: tutoriales jekyll github
 ---
 
-En el primer post explicaré como montar un blog sencillo con Jekyll, primero necesitan crear una cuenta en [github] [github], luego crean un [nuevo repositorio][nrepositorio] al cual deben llamar `mi_usuario.github.io` en el cual reemplazan `mi_usuario` por el nombre de usuario de github.
+En el primer post explicaré como montar un blog sencillo con Jekyll, tal vez no sea la mejor forma de hacerlo pero este es el método que utilicé para crear este blog.
+
+Primero necesitan crear una cuenta en [github] [github], luego crean un [nuevo repositorio][nrepositorio] al cual deben llamar `mi_usuario.github.io` en el cual reemplazan `mi_usuario` por el nombre de usuario de github.
 
 Luego configuran el acceso a github desde la terminal:
 {% highlight bash %}
@@ -19,6 +21,11 @@ Deben pegar el contenido de la llave en [este enlace][clavessh], la llave se enc
 {% highlight bash %}
 ssh -T git@github.com
 {% endhighlight %}
+En la terminal deberían de ver un mesaje parecido al siguiente:
+{% highlight bash %}
+Hi Lewatoto! You've successfully authenticated, but GitHub does not provide shell access.
+{% endhighlight %}
+Con esto ya configurado
 
 [github]:	https://github.com
 [nrepositorio]: https://github.com/new
