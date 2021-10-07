@@ -1,30 +1,66 @@
----
-layout: null
----
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>{{ site.title | xml_escape }}</title>
-    <description>{{ site.description | xml_escape }}</description>
-    <link>{{ site.url }}{{ site.baseurl }}/</link>
-    <atom:link href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" rel="self" type="application/rss+xml" />
-    <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
-    <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
-    <generator>Jekyll v{{ jekyll.version }}</generator>
-    {% for post in site.posts limit:10 %}
-      <item>
-        <title>{{ post.title | xml_escape }}</title>
-        <description>{{ post.content | xml_escape }}</description>
-        <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
-        <link>{{ post.url | prepend: site.baseurl | prepend: site.url }}</link>
-        <guid isPermaLink="true">{{ post.url | prepend: site.baseurl | prepend: site.url }}</guid>
-        {% for tag in post.tags %}
-        <category>{{ tag | xml_escape }}</category>
-        {% endfor %}
-        {% for cat in post.categories %}
-        <category>{{ cat | xml_escape }}</category>
-        {% endfor %}
-      </item>
-    {% endfor %}
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es-GT">
+  <generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator>
+  <link href="https://lewatoto.github.io/feed.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://lewatoto.github.io/" rel="alternate" type="text/html" hreflang="es-GT"/>
+  <updated>2021-10-07T00:12:32-06:00</updated>
+  <id>https://lewatoto.github.io/feed.xml</id><title type="html">Lewatoto’s Blog | </title><subtitle>Blog personal sobre software libre, arte digital, impresión 3D y lo que se me ocurra en donde publicaré información de mis experimentos, futuros proyectos y algunos tutoriales.</subtitle><entry><title type="html">Cambio de blog, de Blogger a Jekyll</title>
+      <link href="https://lewatoto.github.io/cambio-blogger-jekyll/" rel="alternate" type="text/html" title="Cambio de blog, de Blogger a Jekyll" />
+      <published>2021-09-29T00:26:00-06:00</published>
+      <updated>2021-10-06T23:57:21-06:00</updated>
+      <id>https://lewatoto.github.io/cambio-blogger-jekyll</id><author>
+          <name>Lewatoto</name></author><category term="Made in Guatemala" /><category term="Reseñas" /><summary type="html">Primeras impresiones sobre lo que significa cambiar el blog de un generador de contenido como Blogger a uno estático como Jekyll, algunos plugins que pueden ser útiles y uno que otro consejo por si alguien esta interesado en hacer el cambio</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://lewatoto.github.io/assets/img/post/cambio-blogger-jekyll/portada.jpg" />
+        <media:content medium="image" url="https://lewatoto.github.io/assets/img/post/cambio-blogger-jekyll/portada.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">[Reseña] Huion Kamvas Pro 16 (2019)</title>
+      <link href="https://lewatoto.github.io/resena-huion-kamvas-pro-16-2019/" rel="alternate" type="text/html" title="[Reseña] Huion Kamvas Pro 16 (2019)" />
+      <published>2020-11-23T12:00:00-06:00</published>
+      <updated>2021-10-07T00:01:36-06:00</updated>
+      <id>https://lewatoto.github.io/resena-huion-kamvas-pro-16-2019</id><author>
+          <name>Lewatoto</name></author><category term="Reseñas" /><summary type="html">Reseña de la tableta digitalizadora Huion Kamvas Pro 16 luego de un año de uso, lo bueno y también lo malo.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://lewatoto.github.io/assets/img/post/resena-huion-kamvas-pro-16-2019/portada.jpg" />
+        <media:content medium="image" url="https://lewatoto.github.io/assets/img/post/resena-huion-kamvas-pro-16-2019/portada.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Configurar diccionario español en Atom en Fedora</title>
+      <link href="https://lewatoto.github.io/configurar-diccionario-espanol-atom/" rel="alternate" type="text/html" title="Configurar diccionario español en Atom en Fedora" />
+      <published>2019-12-12T08:00:00-06:00</published>
+      <updated>2021-10-06T22:22:55-06:00</updated>
+      <id>https://lewatoto.github.io/configurar-diccionario-espanol-atom</id><author>
+          <name>Lewatoto</name></author><category term="Linux" /><category term="Tutoriales" /><summary type="html">Guía de como configurar un diccionario para la corrección ortográfica en español en Atom</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://lewatoto.github.io/assets/img/post/configurar-diccionario-espanol-atom/portada.jpg" />
+        <media:content medium="image" url="https://lewatoto.github.io/assets/img/post/configurar-diccionario-espanol-atom/portada.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Instalar python basemap matplotlib en fedora</title>
+      <link href="https://lewatoto.github.io/instalar-python-basemap-matplotlib-fedora/" rel="alternate" type="text/html" title="Instalar python basemap matplotlib en fedora" />
+      <published>2017-05-26T23:51:00-06:00</published>
+      <updated>2021-10-06T22:23:42-06:00</updated>
+      <id>https://lewatoto.github.io/instalar-python-basemap-matplotlib-fedora</id><author>
+          <name>Lewatoto</name></author><category term="Linux" /><category term="Tutoriales" /><category term="Python" /><summary type="html">Guía de instalación del paquete matplotlib en un entorno virtual en Fedora</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://lewatoto.github.io/assets/img/post/instalar-python-basemap-matplotlib-fedora/portada.jpg" />
+        <media:content medium="image" url="https://lewatoto.github.io/assets/img/post/instalar-python-basemap-matplotlib-fedora/portada.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Compartir conexión a internet por cable en Gnome 3</title>
+      <link href="https://lewatoto.github.io/compartir-conexion-internet-gnome-3/" rel="alternate" type="text/html" title="Compartir conexión a internet por cable en Gnome 3" />
+      <published>2017-02-04T00:13:00-06:00</published>
+      <updated>2021-10-06T22:24:04-06:00</updated>
+      <id>https://lewatoto.github.io/compartir-conexion-internet-gnome-3</id><author>
+          <name>Lewatoto</name></author><category term="Linux" /><category term="Tutoriales" /><category term="Raspberry Pi" /><summary type="html">Guía para compartir la conexión a internet por wifi al puerto ethernet de la computadora</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://lewatoto.github.io/assets/img/post/compartir-conexion-internet-gnome-3/portada.jpg" />
+        <media:content medium="image" url="https://lewatoto.github.io/assets/img/post/compartir-conexion-internet-gnome-3/portada.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Programar Arduino Pro Mini con Arduino Uno SMD</title>
+      <link href="https://lewatoto.github.io/programar-arduino-pro-arduino-uno/" rel="alternate" type="text/html" title="Programar Arduino Pro Mini con Arduino Uno SMD" />
+      <published>2016-12-15T01:52:00-06:00</published>
+      <updated>2021-10-06T18:08:00-06:00</updated>
+      <id>https://lewatoto.github.io/programar-arduino-pro-arduino-uno</id><author>
+          <name>Lewatoto</name></author><category term="Tutoriales" /><category term="Arduino" /><summary type="html">Guía de como utilizar un Arduino Uno para programar un Arduino Pro Mini</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://lewatoto.github.io/assets/img/post/programar-arduino-pro-arduino-uno/portada.jpg" />
+        <media:content medium="image" url="https://lewatoto.github.io/assets/img/post/programar-arduino-pro-arduino-uno/portada.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Instalar varias tipografías a la vez en linux</title>
+      <link href="https://lewatoto.github.io/instalacion-tipografias-linux/" rel="alternate" type="text/html" title="Instalar varias tipografías a la vez en linux" />
+      <published>2016-07-18T08:00:00-06:00</published>
+      <updated>2021-10-06T22:24:43-06:00</updated>
+      <id>https://lewatoto.github.io/instalacion-tipografias-linux</id><author>
+          <name>Lewatoto</name></author><category term="Linux" /><category term="Tutoriales" /><summary type="html">Guía personal de como instalar varias tipografías a la vez en Linux</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://lewatoto.github.io/assets/img/post/instalacion-tipografias-linux/portada.jpg" />
+        <media:content medium="image" url="https://lewatoto.github.io/assets/img/post/instalacion-tipografias-linux/portada.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Instalación básica de Latex y texmaker en Fedora</title>
+      <link href="https://lewatoto.github.io/instalacion-basica-latex-textkaer-fedora/" rel="alternate" type="text/html" title="Instalación básica de Latex y texmaker en Fedora" />
+      <published>2016-02-19T11:10:00-06:00</published>
+      <updated>2021-10-06T22:25:04-06:00</updated>
+      <id>https://lewatoto.github.io/instalacion-basica-latex-textkaer-fedora</id><author>
+          <name>Lewatoto</name></author><category term="Linux" /><category term="Tutoriales" /><summary type="html">Guía personal de instalación de LateX y el editor Texmaker con soporte para el idioma español e IEEEtran</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://lewatoto.github.io/assets/img/post/instalacion-basica-latex-textkaer-fedora/portada.jpg" />
+        <media:content medium="image" url="https://lewatoto.github.io/assets/img/post/instalacion-basica-latex-textkaer-fedora/portada.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Como crear un blog simple con Jekyll</title>
+      <link href="https://lewatoto.github.io/crear-blog-simple-jeykll/" rel="alternate" type="text/html" title="Como crear un blog simple con Jekyll" />
+      <published>2014-10-05T11:58:11-06:00</published>
+      <updated>2021-10-06T22:25:37-06:00</updated>
+      <id>https://lewatoto.github.io/crear-blog-simple-jeykll</id><author>
+          <name>Lewatoto</name></author><category term="Tutoriales" /><category term="Jekyll" /><summary type="html">Guía para la creación de un blog simple con Jekyll, método utilizado en la creación de la primer versión de este blog</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://lewatoto.github.io/assets/img/post/crear-blog-simple-jeykll/portada.jpg" />
+        <media:content medium="image" url="https://lewatoto.github.io/assets/img/post/crear-blog-simple-jeykll/portada.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Configurar diccionario en texmaker</title>
+      <link href="https://lewatoto.github.io/configurar-diccionario-textmaker/" rel="alternate" type="text/html" title="Configurar diccionario en texmaker" />
+      <published>2012-10-18T22:36:00-06:00</published>
+      <updated>2021-10-06T17:59:48-06:00</updated>
+      <id>https://lewatoto.github.io/configurar-diccionario-textmaker</id><author>
+          <name>Lewatoto</name></author><category term="Linux" /><category term="Tutoriales" /><summary type="html">Guía de como configurar un diccionario para la corrección ortográfica en español en TextMaker</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://lewatoto.github.io/assets/img/post/configurar-diccionario-textmaker/portada.jpg" />
+        <media:content medium="image" url="https://lewatoto.github.io/assets/img/post/configurar-diccionario-textmaker/portada.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
