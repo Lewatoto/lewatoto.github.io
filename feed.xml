@@ -2,17 +2,17 @@
   <generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator>
   <link href="https://lewatoto.github.io/feed.xml" rel="self" type="application/atom+xml"/>
   <link href="https://lewatoto.github.io/" rel="alternate" type="text/html" hreflang="es-GT"/>
-  <updated>2021-10-08T22:05:07-06:00</updated>
+  <updated>2021-10-18T21:44:54-06:00</updated>
   <id>https://lewatoto.github.io/feed.xml</id><title type="html">Lewatoto’s Blog | </title><subtitle>Blog personal sobre software libre, arte digital, impresión 3D y lo que se me ocurra en donde publicaré información de mis experimentos, futuros proyectos y algunos tutoriales.</subtitle><entry><title type="html">Cambio de blog, de Blogger a Jekyll</title>
       <link href="https://lewatoto.github.io/cambio-blogger-jekyll/" rel="alternate" type="text/html" title="Cambio de blog, de Blogger a Jekyll" />
       <published>2021-09-29T00:26:00-06:00</published>
-      <updated>2021-10-06T23:57:21-06:00</updated>
+      <updated>2021-10-18T21:06:56-06:00</updated>
       <id>https://lewatoto.github.io/cambio-blogger-jekyll</id><author>
-          <name>Lewatoto</name></author><category term="Made in Guatemala" /><category term="Reseñas" /><summary type="html">Primeras impresiones sobre lo que significa cambiar el blog de un generador de contenido como Blogger a uno estático como Jekyll, algunos plugins que pueden ser útiles y uno que otro consejo por si alguien esta interesado en hacer el cambio</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://lewatoto.github.io/assets/img/post/cambio-blogger-jekyll/portada.jpg" />
+          <name>Lewatoto</name></author><category term="Made in Guatemala" /><category term="Reseñas" /><category term="Jekyll" /><summary type="html">Primeras impresiones sobre lo que significa cambiar el blog de un generador de contenido como Blogger a uno estático como Jekyll, algunos plugins que pueden ser útiles y uno que otro consejo por si alguien esta interesado en hacer el cambio</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://lewatoto.github.io/assets/img/post/cambio-blogger-jekyll/portada.jpg" />
         <media:content medium="image" url="https://lewatoto.github.io/assets/img/post/cambio-blogger-jekyll/portada.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">[Reseña] Huion Kamvas Pro 16 (2019)</title>
       <link href="https://lewatoto.github.io/resena-huion-kamvas-pro-16-2019/" rel="alternate" type="text/html" title="[Reseña] Huion Kamvas Pro 16 (2019)" />
       <published>2020-11-23T12:00:00-06:00</published>
-      <updated>2021-10-07T00:01:36-06:00</updated>
+      <updated>2021-10-13T20:01:17-06:00</updated>
       <id>https://lewatoto.github.io/resena-huion-kamvas-pro-16-2019</id><author>
           <name>Lewatoto</name></author><category term="Reseñas" /><summary type="html">Reseña de la tableta digitalizadora Huion Kamvas Pro 16 luego de un año de uso, lo bueno y también lo malo.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://lewatoto.github.io/assets/img/post/resena-huion-kamvas-pro-16-2019/portada.jpg" />
         <media:content medium="image" url="https://lewatoto.github.io/assets/img/post/resena-huion-kamvas-pro-16-2019/portada.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Configurar diccionario español en Atom en Fedora</title>
