@@ -2,8 +2,14 @@
   <generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator>
   <link href="https://lewatoto.github.io/feed.xml" rel="self" type="application/atom+xml"/>
   <link href="https://lewatoto.github.io/" rel="alternate" type="text/html" hreflang="es-GT"/>
-  <updated>2021-10-18T21:44:54-06:00</updated>
-  <id>https://lewatoto.github.io/feed.xml</id><title type="html">Lewatoto’s Blog | </title><subtitle>Blog personal sobre software libre, arte digital, impresión 3D y lo que se me ocurra en donde publicaré información de mis experimentos, futuros proyectos y algunos tutoriales.</subtitle><entry><title type="html">Cambio de blog, de Blogger a Jekyll</title>
+  <updated>2021-10-22T23:24:29-06:00</updated>
+  <id>https://lewatoto.github.io/feed.xml</id><title type="html">Lewatoto’s Blog | </title><subtitle>Blog personal sobre software libre, arte digital, impresión 3D y lo que se me ocurra en donde publicaré información de mis experimentos, futuros proyectos y algunos tutoriales.</subtitle><entry><title type="html">Advertencia: eviten los enlaces al antiguo sitio web de KiCad</title>
+      <link href="https://lewatoto.github.io/advertencia-antiguo-dominio-kicad/" rel="alternate" type="text/html" title="Advertencia: eviten los enlaces al antiguo sitio web de KiCad" />
+      <published>2021-10-22T22:14:00-06:00</published>
+      <updated>2021-10-22T23:24:09-06:00</updated>
+      <id>https://lewatoto.github.io/advertencia-antiguo-dominio-kicad</id><author>
+          <name>Lewatoto</name></author><category term="Linux" /><category term="Kicad" /><summary type="html">El dominio antiguo de KiCad ha sido vendido a un tercero que no tiene relación con el proyecto, el enlace oficial al sitio es https://www.kicad.org/</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://lewatoto.github.io/assets/img/post/advertencia-antiguo-dominio-kicad/portada.png" />
+        <media:content medium="image" url="https://lewatoto.github.io/assets/img/post/advertencia-antiguo-dominio-kicad/portada.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Cambio de blog, de Blogger a Jekyll</title>
       <link href="https://lewatoto.github.io/cambio-blogger-jekyll/" rel="alternate" type="text/html" title="Cambio de blog, de Blogger a Jekyll" />
       <published>2021-09-29T00:26:00-06:00</published>
       <updated>2021-10-18T21:06:56-06:00</updated>
@@ -57,10 +63,4 @@
       <updated>2021-10-06T22:25:37-06:00</updated>
       <id>https://lewatoto.github.io/crear-blog-simple-jeykll</id><author>
           <name>Lewatoto</name></author><category term="Tutoriales" /><category term="Jekyll" /><summary type="html">Guía para la creación de un blog simple con Jekyll, método utilizado en la creación de la primer versión de este blog</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://lewatoto.github.io/assets/img/post/crear-blog-simple-jeykll/portada.jpg" />
-        <media:content medium="image" url="https://lewatoto.github.io/assets/img/post/crear-blog-simple-jeykll/portada.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Configurar diccionario en texmaker</title>
-      <link href="https://lewatoto.github.io/configurar-diccionario-textmaker/" rel="alternate" type="text/html" title="Configurar diccionario en texmaker" />
-      <published>2012-10-18T22:36:00-06:00</published>
-      <updated>2021-10-06T17:59:48-06:00</updated>
-      <id>https://lewatoto.github.io/configurar-diccionario-textmaker</id><author>
-          <name>Lewatoto</name></author><category term="Linux" /><category term="Tutoriales" /><summary type="html">Guía de como configurar un diccionario para la corrección ortográfica en español en TextMaker</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://lewatoto.github.io/assets/img/post/configurar-diccionario-textmaker/portada.jpg" />
-        <media:content medium="image" url="https://lewatoto.github.io/assets/img/post/configurar-diccionario-textmaker/portada.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+        <media:content medium="image" url="https://lewatoto.github.io/assets/img/post/crear-blog-simple-jeykll/portada.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
