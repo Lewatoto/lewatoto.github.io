@@ -2,13 +2,19 @@
   <generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator>
   <link href="https://lewatoto.github.io/feed.xml" rel="self" type="application/atom+xml"/>
   <link href="https://lewatoto.github.io/" rel="alternate" type="text/html" hreflang="es-GT"/>
-  <updated>2021-10-22T23:24:29-06:00</updated>
-  <id>https://lewatoto.github.io/feed.xml</id><title type="html">Lewatoto’s Blog | </title><subtitle>Blog personal sobre software libre, arte digital, impresión 3D y lo que se me ocurra en donde publicaré información de mis experimentos, futuros proyectos y algunos tutoriales.</subtitle><entry><title type="html">Advertencia: eviten los enlaces al antiguo sitio web de KiCad</title>
+  <updated>2021-10-27T23:52:00-06:00</updated>
+  <id>https://lewatoto.github.io/feed.xml</id><title type="html">Lewatoto’s Blog | </title><subtitle>Blog personal sobre software libre, arte digital, impresión 3D y lo que se me ocurra en donde publicaré información de mis experimentos, futuros proyectos y algunos tutoriales.</subtitle><entry><title type="html">Estilos de blockquote para Bulma CSS</title>
+      <link href="https://lewatoto.github.io/estilos-blockquote-bulma-css/" rel="alternate" type="text/html" title="Estilos de blockquote para Bulma CSS" />
+      <published>2021-10-27T21:08:00-06:00</published>
+      <updated>2021-10-27T23:37:39-06:00</updated>
+      <id>https://lewatoto.github.io/estilos-blockquote-bulma-css</id><author>
+          <name>Lewatoto</name></author><category term="Bulma" /><summary type="html">Agregando estilos para el elemento blockquote de HTML, utilizando el esquema de colores de Bulma CSS.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://lewatoto.github.io/assets/img/post/estilos-blockquote-bulma-css/portada.jpg" />
+        <media:content medium="image" url="https://lewatoto.github.io/assets/img/post/estilos-blockquote-bulma-css/portada.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Advertencia: eviten los enlaces al antiguo sitio web de KiCad</title>
       <link href="https://lewatoto.github.io/advertencia-antiguo-dominio-kicad/" rel="alternate" type="text/html" title="Advertencia: eviten los enlaces al antiguo sitio web de KiCad" />
       <published>2021-10-22T22:14:00-06:00</published>
-      <updated>2021-10-22T23:24:09-06:00</updated>
+      <updated>2021-10-27T23:40:08-06:00</updated>
       <id>https://lewatoto.github.io/advertencia-antiguo-dominio-kicad</id><author>
-          <name>Lewatoto</name></author><category term="Linux" /><category term="Kicad" /><summary type="html">El dominio antiguo de KiCad ha sido vendido a un tercero que no tiene relación con el proyecto, el enlace oficial al sitio es https://www.kicad.org/</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://lewatoto.github.io/assets/img/post/advertencia-antiguo-dominio-kicad/portada.png" />
+          <name>Lewatoto</name></author><category term="Linux" /><category term="KiCad" /><summary type="html">El dominio antiguo de KiCad ha sido vendido a un tercero que no tiene relación con el proyecto, el único enlace oficial al sitio es https://www.kicad.org/</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://lewatoto.github.io/assets/img/post/advertencia-antiguo-dominio-kicad/portada.png" />
         <media:content medium="image" url="https://lewatoto.github.io/assets/img/post/advertencia-antiguo-dominio-kicad/portada.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Cambio de blog, de Blogger a Jekyll</title>
       <link href="https://lewatoto.github.io/cambio-blogger-jekyll/" rel="alternate" type="text/html" title="Cambio de blog, de Blogger a Jekyll" />
       <published>2021-09-29T00:26:00-06:00</published>
@@ -57,10 +63,4 @@
       <updated>2021-10-06T22:25:04-06:00</updated>
       <id>https://lewatoto.github.io/instalacion-basica-latex-textkaer-fedora</id><author>
           <name>Lewatoto</name></author><category term="Linux" /><category term="Tutoriales" /><summary type="html">Guía personal de instalación de LateX y el editor Texmaker con soporte para el idioma español e IEEEtran</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://lewatoto.github.io/assets/img/post/instalacion-basica-latex-textkaer-fedora/portada.jpg" />
-        <media:content medium="image" url="https://lewatoto.github.io/assets/img/post/instalacion-basica-latex-textkaer-fedora/portada.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Como crear un blog simple con Jekyll</title>
-      <link href="https://lewatoto.github.io/crear-blog-simple-jeykll/" rel="alternate" type="text/html" title="Como crear un blog simple con Jekyll" />
-      <published>2014-10-05T11:58:11-06:00</published>
-      <updated>2021-10-06T22:25:37-06:00</updated>
-      <id>https://lewatoto.github.io/crear-blog-simple-jeykll</id><author>
-          <name>Lewatoto</name></author><category term="Tutoriales" /><category term="Jekyll" /><summary type="html">Guía para la creación de un blog simple con Jekyll, método utilizado en la creación de la primer versión de este blog</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://lewatoto.github.io/assets/img/post/crear-blog-simple-jeykll/portada.jpg" />
-        <media:content medium="image" url="https://lewatoto.github.io/assets/img/post/crear-blog-simple-jeykll/portada.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+        <media:content medium="image" url="https://lewatoto.github.io/assets/img/post/instalacion-basica-latex-textkaer-fedora/portada.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
