@@ -2,11 +2,11 @@
   <generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator>
   <link href="https://lewatoto.github.io/feed.xml" rel="self" type="application/atom+xml"/>
   <link href="https://lewatoto.github.io/" rel="alternate" type="text/html" hreflang="es-GT"/>
-  <updated>2022-05-27T18:38:48-06:00</updated>
+  <updated>2022-05-27T18:43:42-06:00</updated>
   <id>https://lewatoto.github.io/feed.xml</id><title type="html">Lewatoto’s Blog | </title><subtitle>Blog personal sobre software libre, arte digital, impresión 3D y lo que se me ocurra en donde publicaré información de mis experimentos, futuros proyectos y algunos tutoriales.</subtitle><entry><title type="html">Configurar tableta gráfica Huion en Linux</title>
       <link href="https://lewatoto.github.io/tableta-huion-linux/" rel="alternate" type="text/html" title="Configurar tableta gráfica Huion en Linux" />
-      <published>2022-05-21T15:12:00-06:00</published>
-      <updated>2022-05-27T18:38:41-06:00</updated>
+      <published>2022-05-27T15:12:00-06:00</published>
+      <updated>2022-05-27T18:43:33-06:00</updated>
       <id>https://lewatoto.github.io/tableta-huion-linux</id><author>
           <name>Lewatoto</name></author><category term="Linux" /><category term="Tabletas gráficas" /><category term="Tutoriales" /><summary type="html">Guía de instalación de los controladores para utilizar tabletas gráficas Huion y otras marcas en Linux</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://lewatoto.github.io/assets/img/post/tableta-huion-linux/portada.jpg" />
         <media:content medium="image" url="https://lewatoto.github.io/assets/img/post/tableta-huion-linux/portada.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Estilos de blockquote para Bulma CSS</title>
