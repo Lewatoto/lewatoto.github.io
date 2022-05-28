@@ -2,8 +2,14 @@
   <generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator>
   <link href="https://lewatoto.github.io/feed.xml" rel="self" type="application/atom+xml"/>
   <link href="https://lewatoto.github.io/" rel="alternate" type="text/html" hreflang="es-GT"/>
-  <updated>2021-10-27T23:52:00-06:00</updated>
-  <id>https://lewatoto.github.io/feed.xml</id><title type="html">Lewatoto’s Blog | </title><subtitle>Blog personal sobre software libre, arte digital, impresión 3D y lo que se me ocurra en donde publicaré información de mis experimentos, futuros proyectos y algunos tutoriales.</subtitle><entry><title type="html">Estilos de blockquote para Bulma CSS</title>
+  <updated>2022-05-27T18:38:48-06:00</updated>
+  <id>https://lewatoto.github.io/feed.xml</id><title type="html">Lewatoto’s Blog | </title><subtitle>Blog personal sobre software libre, arte digital, impresión 3D y lo que se me ocurra en donde publicaré información de mis experimentos, futuros proyectos y algunos tutoriales.</subtitle><entry><title type="html">Configurar tableta gráfica Huion en Linux</title>
+      <link href="https://lewatoto.github.io/tableta-huion-linux/" rel="alternate" type="text/html" title="Configurar tableta gráfica Huion en Linux" />
+      <published>2022-05-21T15:12:00-06:00</published>
+      <updated>2022-05-27T18:38:41-06:00</updated>
+      <id>https://lewatoto.github.io/tableta-huion-linux</id><author>
+          <name>Lewatoto</name></author><category term="Linux" /><category term="Tabletas gráficas" /><category term="Tutoriales" /><summary type="html">Guía de instalación de los controladores para utilizar tabletas gráficas Huion y otras marcas en Linux</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://lewatoto.github.io/assets/img/post/tableta-huion-linux/portada.jpg" />
+        <media:content medium="image" url="https://lewatoto.github.io/assets/img/post/tableta-huion-linux/portada.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Estilos de blockquote para Bulma CSS</title>
       <link href="https://lewatoto.github.io/estilos-blockquote-bulma-css/" rel="alternate" type="text/html" title="Estilos de blockquote para Bulma CSS" />
       <published>2021-10-27T21:08:00-06:00</published>
       <updated>2021-10-27T23:37:39-06:00</updated>
@@ -24,9 +30,9 @@
         <media:content medium="image" url="https://lewatoto.github.io/assets/img/post/cambio-blogger-jekyll/portada.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">[Reseña] Huion Kamvas Pro 16 (2019)</title>
       <link href="https://lewatoto.github.io/resena-huion-kamvas-pro-16-2019/" rel="alternate" type="text/html" title="[Reseña] Huion Kamvas Pro 16 (2019)" />
       <published>2020-11-23T12:00:00-06:00</published>
-      <updated>2021-10-13T20:01:17-06:00</updated>
+      <updated>2022-05-25T23:55:52-06:00</updated>
       <id>https://lewatoto.github.io/resena-huion-kamvas-pro-16-2019</id><author>
-          <name>Lewatoto</name></author><category term="Reseñas" /><summary type="html">Reseña de la tableta digitalizadora Huion Kamvas Pro 16 luego de un año de uso, lo bueno y también lo malo.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://lewatoto.github.io/assets/img/post/resena-huion-kamvas-pro-16-2019/portada.jpg" />
+          <name>Lewatoto</name></author><category term="Reseñas" /><category term="Tabletas gráficas" /><summary type="html">Reseña de la tableta digitalizadora Huion Kamvas Pro 16 luego de un año de uso, lo bueno y también lo malo.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://lewatoto.github.io/assets/img/post/resena-huion-kamvas-pro-16-2019/portada.jpg" />
         <media:content medium="image" url="https://lewatoto.github.io/assets/img/post/resena-huion-kamvas-pro-16-2019/portada.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Configurar diccionario español en Atom en Fedora</title>
       <link href="https://lewatoto.github.io/configurar-diccionario-espanol-atom/" rel="alternate" type="text/html" title="Configurar diccionario español en Atom en Fedora" />
       <published>2019-12-12T08:00:00-06:00</published>
@@ -57,10 +63,4 @@
       <updated>2021-10-06T22:24:43-06:00</updated>
       <id>https://lewatoto.github.io/instalacion-tipografias-linux</id><author>
           <name>Lewatoto</name></author><category term="Linux" /><category term="Tutoriales" /><summary type="html">Guía personal de como instalar varias tipografías a la vez en Linux</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://lewatoto.github.io/assets/img/post/instalacion-tipografias-linux/portada.jpg" />
-        <media:content medium="image" url="https://lewatoto.github.io/assets/img/post/instalacion-tipografias-linux/portada.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Instalación básica de Latex y texmaker en Fedora</title>
-      <link href="https://lewatoto.github.io/instalacion-basica-latex-textkaer-fedora/" rel="alternate" type="text/html" title="Instalación básica de Latex y texmaker en Fedora" />
-      <published>2016-02-19T11:10:00-06:00</published>
-      <updated>2021-10-06T22:25:04-06:00</updated>
-      <id>https://lewatoto.github.io/instalacion-basica-latex-textkaer-fedora</id><author>
-          <name>Lewatoto</name></author><category term="Linux" /><category term="Tutoriales" /><summary type="html">Guía personal de instalación de LateX y el editor Texmaker con soporte para el idioma español e IEEEtran</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://lewatoto.github.io/assets/img/post/instalacion-basica-latex-textkaer-fedora/portada.jpg" />
-        <media:content medium="image" url="https://lewatoto.github.io/assets/img/post/instalacion-basica-latex-textkaer-fedora/portada.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+        <media:content medium="image" url="https://lewatoto.github.io/assets/img/post/instalacion-tipografias-linux/portada.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
